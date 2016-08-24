@@ -18,3 +18,7 @@
   - Criar um arquivo com seu nome;
   - Commitar o arquivo
   - Pushar o commit
+
+* Teste:
+  - Rode o arquivo de teste para ver um resultado básico da estrutura de dados (ainda incompleta)
+  `python scraper_test.py`
