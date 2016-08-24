@@ -7,7 +7,7 @@
   - pip install requests
   - pip install scrapy (ainda não foi usado, mas parece ser o melhor plugin para o nosso trabalho)
 
-* Sugestão de editor te textos:
+* Sugestão de editor de textos:
   - https://www.sublimetext.com/3 (o que eu uso, opção pessoal)
   - http://limetext.org/
   - https://www.geany.org/Download/Releases
